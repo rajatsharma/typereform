@@ -21,3 +21,5 @@ yarn build
 ```sh
 yarn export
 ```
+
+[![MIT License](https://img.shields.io/badge/license-MIT-black.svg?style=flat-square)](/LICENSE)
