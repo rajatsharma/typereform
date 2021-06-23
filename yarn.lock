@@ -1065,6 +1065,10 @@ eslint-config-airbnb@^18.2.0:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
+"eslint-config-rajatsharma@https://github.com/rajatsharma/eslint-config-rajatsharma":
+  version "0.1.0"
+  resolved "https://github.com/rajatsharma/eslint-config-rajatsharma#7f55a1fa64b3c97e7d0be08fa00292ea63f2a47a"
+
 eslint-import-resolver-node@^0.3.4:
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.4.tgz#85ffa81942c25012d8231096ddf679c03042c717"
