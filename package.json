@@ -8,6 +8,9 @@
     "export": "next export",
     "type-check": "tsc"
   },
+  "eslintConfig": {
+    "extends": "rsh"
+  },
   "dependencies": {
     "next": "latest",
     "react": "^17.0.1",
@@ -17,14 +20,7 @@
     "@types/node": "^12.12.21",
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
-    "@typescript-eslint/eslint-plugin": "^4.23.0",
-    "eslint": "^7.26.0",
-    "eslint-config-airbnb-typescript": "^12.3.1",
-    "eslint-config-rajatsharma": "https://github.com/rajatsharma/eslint-config-rajatsharma",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.23.2",
-    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-config-rsh": "https://github.com/rajatsharma/eslint-config-rsh",
     "typescript": "4.0"
   },
   "license": "MIT"
